@@ -68,3 +68,20 @@ body {
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
+.wrapper .btn1{
+    background:#9271d630;
+    color: #dea322e8;
+}
+.wrapper .btn2{
+    background:#6971c530;
+    color: #d6289ff4;
+}
+.wrapper .btn3{
+    background:#cd894130;
+    color: #3e35e4f5;
+}
+.wrapper .btn4{
+    background:#4e5bef30;
+    color: #eddb1ce3;
+}
+
